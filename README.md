@@ -1,16 +1,23 @@
-## Hi there 👋
+<center>
 
-<!--
-**gulfatronicju-lang/gulfatronicju-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$$\color{#8B0000}{\text{𝗪𝗲𝗹𝗰𝗼𝗺𝗲!!!!!}}$$
 
-Here are some ideas to get you started:
+$$\color{#722F37}{\text{𝗳𝗿𝗼𝗺 𝗥𝘂𝘀𝘀𝗶𝗮 𝗺𝗲.}}$$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$$\color{#722F37}{\text{𝗥𝗨/𝗘𝗡𝗚/𝗘𝗦𝗣}}$$
+
+$$\color{#722F37}{\text{𝗬𝗼𝘂 𝗰𝗮𝗻 𝘀𝗶𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲}}$$
+
+$$\color{#722F37}{\text{𝗜𝗻 𝗽𝗼𝗻𝘆 𝘁𝗼𝘄𝗻! 𝗢𝗳 𝗰𝗼𝘂𝗿𝘀𝗲,}}$$
+
+$$\color{#722F37}{\text{𝗔𝗻𝗱 𝘄𝗵𝗶𝘀𝗽 𝘁𝗼 𝗶𝗻𝘁!}}$$
+
+$$\color{#722F37}{\text{𝗔𝗻𝗱 𝗺𝗼𝗿𝗲}}$$
+
+$$\color{#8B0000}{\text{𝗗𝗼𝗻'𝘁 𝗰𝗼𝗽𝘆, 𝗱𝗼𝗻'𝘁 𝗴𝗲𝘁}}$$
+
+$$\color{#8B0000}{\text{𝗶𝗻𝘀𝗽𝗶𝗿𝗲𝗱}}$$
+
+$$\color{#8B0000}{\text{𝘄𝗶𝘁𝗵 𝗺𝘆 𝘀𝗸𝗶𝗻𝘀.}}$$
+
+</center>
